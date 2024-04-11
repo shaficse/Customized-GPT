@@ -53,11 +53,15 @@ Memory components store interaction histories, providing context for response ge
 
 The RAG process chains together LLMs and other components, processing user queries to retrieve information and generate responses.
 
-## Implementation
 
-`AIT Chatbot` leverages Python scripts to integrate these components, capable of answering a wide range of AIT-related questions by retrieving information from designated course materials and documents.
+
+### AIT Data Scrapping
+**Website Content Download and File Organization** automates the process of downloading specific file types from a given website and subsequently organizing them into a structured directory.
 
 ### Example Queries and Responses
+`AIT Chatbot` leverages Python scripts to integrate these components, capable of answering a wide range of AIT-related questions by retrieving information from designated course materials and documents.
+
+
 
 - **Query**: What types of academic programs does AIT offer?
 - **Response**: AIT offers diverse academic programs in engineering, environmental sciences, and management.
