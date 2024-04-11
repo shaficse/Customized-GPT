@@ -72,8 +72,8 @@ This application is built with Flask and requires Python 3.7 or later. Follow th
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/ait-chatbot.git
-    cd ait-chatbot
+    git clone https://github.com/shaficse/AIT-GPT.git
+    cd AIT-GPT
     ```
 
 2. **Set up a Virtual Environment** (Optional but recommended)
